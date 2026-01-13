@@ -27,3 +27,7 @@ for higher-order features.
 
 The code consists of a single runnable file that tests the equivariance of the neural network on
 randomly generated graphs.
+
+
+## Run
+python3 standalone_Equiformer_w_batch.py
