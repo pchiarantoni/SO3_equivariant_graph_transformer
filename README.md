@@ -1,0 +1,2 @@
+# SO3_equivariant_graph_transformer
+Independent implementation of Equiformer neural network
