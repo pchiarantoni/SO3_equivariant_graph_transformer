@@ -1,4 +1,6 @@
 # SO(3) Equivariant transformer with graph attention based on Equiformer https://arxiv.org/pdf/2206.11990
+# test with
+#    python3 standalone_Equiformer_w_batch.py
 
 import torch
 import torch.nn as nn
